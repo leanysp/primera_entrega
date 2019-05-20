@@ -38,7 +38,6 @@ let curso = cursos.find(nomcurso =>nomcurso.id == argv.id);
 
 if(curso){
   //el curso existe
-  console.log(curso);
   crearArchivo(curso,argv.nombre, argv.cedula)
 } else {
   if(argv.id){
