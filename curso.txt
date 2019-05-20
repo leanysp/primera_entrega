@@ -1,0 +1,2 @@
+El estudiante Leanys, identificado con cedula #1032407310,
+Se ha matriculado en el curso matematica con id 3, el cual tiene una duracion de 50 horas y un valor de 50000
